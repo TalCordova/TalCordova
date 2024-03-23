@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Tal
+#### Machine Learning | Deep Learning | Data Enthusiast
+I'm Tal from Israel, I am a Data Analyst, Project Manager.
+I work with SQL, Python and more. 
+
+Skills: SQL | Pyton | Java | Tableau
 
 <!--
 **TalCordova/TalCordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
