@@ -1,16 +1,17 @@
 ### Hi there 👋 I'm Tal
 #### Machine Learning | Deep Learning | Data Enthusiast
-I'm Tal from Israel, I am a Data Analyst, Project Manager.
+I'm Tal from Israel, I am a Data Analyst and a Technical Project Manager.
 I work with SQL, Python and more. 
 
 Skills: SQL | Pyton | Java | Tableau
 
+- 🔭 I’m currently working on the Titanic Disaster competition on [Kaggle](https://www.kaggle.com/competitions/titanic/overview)
 <!--
 **TalCordova/TalCordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
