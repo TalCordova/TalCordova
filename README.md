@@ -6,6 +6,7 @@ I work with SQL, Python and more.
 Skills: SQL | Pyton | Java | Tableau
 
 - 🔭 I’m currently working on the Titanic Disaster competition on [Kaggle](https://www.kaggle.com/competitions/titanic/overview)
+- 🌱 I’m currently learning the "Hands on Machine Learning with Scikit-Learn Keras & TensorFlow" book
 <!--
 **TalCordova/TalCordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
