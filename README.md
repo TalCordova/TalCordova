@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Tal
 #### Machine Learning | Deep Learning | Data Enthusiast
 I'm Tal from Israel, I am a Data Analyst and a Technical Project Manager.
-I work with SQL, Python and more.
+I work with SQL, Python and machine learning.
 
-Author of the Effects of demographic and technological trends on the mitigation of Israel’s environmental footprint paper - published in [Nature Sustainability]([url](https://www.nature.com/articles/s41893-024-01440-5))
+Author of the paper "Effects of demographic and technological trends on the mitigation of Israel’s environmental footprint" - published in [Nature Sustainability]([url](https://www.nature.com/articles/s41893-024-01440-5))
 
 Skills: SQL | Pyton | Java | Tableau
 
