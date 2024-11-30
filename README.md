@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Tal
-#### Machine Learning | Deep Learning | Data Enthusiast
+#### Machine Learning | Deep Learning | Data Analysis | Research
 I'm Tal from Israel, I am a Data Analyst and a Technical Project Manager.
 I work with SQL, Python and machine learning.
 
