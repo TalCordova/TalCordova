@@ -1,14 +1,12 @@
 ### Hi there 👋 I'm Tal
-#### Machine Learning | Deep Learning | Data Analysis | Research
-I'm Tal from Israel, I am a Data Analyst and a Technical Project Manager.
-I work with SQL, Python and machine learning.
+#### Machine Learning | Deep Learning | Research
+I'm Tal from Israel, I am a PhD candidate in Tel-Aviv University.
+My research interests are machine learning, AI, LLMs and recommender systems.
 
 Author of the paper "Effects of demographic and technological trends on the mitigation of Israel’s environmental footprint" - published in Nature Sustainability (https://www.nature.com/articles/s41893-024-01440-5)
 
-Skills: SQL | Pyton | Java | Tableau
+Skills: Machine Learning | Python | SQL | Java | Tableau
 
-- 🔭 I’m currently improving my PyTorch 🔥🔥 skills
-- 🌱 I’m currently learning the "Hands on Machine Learning with Scikit-Learn Keras & TensorFlow" book
 - 📫 How to reach me: talcordova56@gmail.com
 - My LinkedIn profile: https://www.linkedin.com/in/tal-cordova/
 <!--
