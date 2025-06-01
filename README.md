@@ -1,25 +1,25 @@
-### Hi there 👋 I'm Tal
-#### Machine Learning | Deep Learning | Research
-I'm Tal from Israel, I am a PhD candidate in Tel-Aviv University.
-My research interests are machine learning, AI, LLMs and recommender systems.
+# Hi there 👋 I'm Tal
 
-Author of the paper "Effects of demographic and technological trends on the mitigation of Israel’s environmental footprint" - published in Nature Sustainability (https://www.nature.com/articles/s41893-024-01440-5)
+## Machine Learning | Deep Learning | Research | LLMs
 
-Skills: Machine Learning | Python | SQL | Java | Tableau
+I'm Tal from Israel, a PhD candidate at Tel-Aviv University researching **LLM applications for contextual information extraction from unstructured data**.
 
-- 📫 How to reach me: talcordova56@gmail.com
-- My LinkedIn profile: https://www.linkedin.com/in/tal-cordova/
-<!--
-**TalCordova/TalCordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 Research Focus
+- **Large Language Models (LLMs)** for information extraction
+- **Recommender systems** and personalization algorithms
+- **Environment and sustainability** data focused research
 
-Here are some ideas to get you started:
+## 📚 Publications
+**Author** of "Effects of demographic and technological trends on the mitigation of Israel's environmental footprint" - published in [Nature Sustainability](https://www.nature.com/articles/s41893-024-01440-5)
 
+## 🛠️ Technical Skills
+**Languages & Frameworks:** Python | PyTorch | TensorFlow | SQL | Java | MATLAB  
+**ML/Data:** Machine Learning | Deep Learning | Data Analysis | Tableau  
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+I'm pursuing my PhD while developing novel approaches for LLM-based information extraction, building production-ready ML pipelines, and contributing to open-source ML tools and research reproducibility.
+
+## 📫 Connect with me
+- 📧 Email: [talcordova56@gmail.com](mailto:talcordova56@gmail.com)
+- 💼 LinkedIn: [tal-cordova](https://www.linkedin.com/in/tal-cordova/)
+- 🎓 ORCID: [0009-0001-8813-6804](https://orcid.org/0009-0001-8813-6804)
