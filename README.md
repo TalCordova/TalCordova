@@ -4,6 +4,8 @@
 
 I'm Tal from Israel, a PhD candidate at Tel-Aviv University researching **LLM applications for contextual information extraction from unstructured data**.
 
+*"I'm going to have to science the s*** out of this."* - Mark Watney (and my research motto)
+
 ## 🔬 Research Focus
 - **Large Language Models (LLMs)** for information extraction
 - **Recommender systems** and personalization algorithms
