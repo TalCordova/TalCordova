@@ -32,7 +32,10 @@
 
 ---
 
-## 📚 Selected Publication
+## 📚 Selected Publications
+
+- “Seeing the Context: Enhancing Recommender Systems with Image-Derived Contextual Signals”  
+  T. Cordova, T. Geva, M. Unger. CARS Workshop @ RecSys 2026. [arXiv:2610.08407](https://arxiv.org/abs/2610.08407)
 
 - “Effects of demographic and technological trends on the mitigation of Israel's environmental footprint”  
   Published in [Nature Sustainability](https://www.nature.com/articles/s41893-024-01440-5).
